@@ -9,4 +9,4 @@ Fique à vontade para fazer sua contribuição corrigindo erros de segurança ou
 2. Entre individualmente em cada pasta(client,server e dashboard) e instale as dependencias usando seu gerenciador de pacotes favorito
 3. Com base nos arquivos ```.env.example``` crie individualmente em cada pasta o arquivo ```.env``` setando as variáveis especificadas.
 4. Rode separadamente cada aplicação usando as instruções localizadas no arquivo ```README.md``` de cada pasta.
-5. Aproveite!!!
+5. Aproveite!
